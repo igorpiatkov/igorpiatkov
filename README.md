@@ -15,15 +15,15 @@ Weekly meal planner with handy recipes.
 Website: https://igorpiatkov.com </br>
 Email: [hello@igorpiatkov.com](mailto:hello@igorpiatkov.com)
 
-<a href="https://twitter.com/igorpiatkov">
+<a href="https://twitter.com/igorpiatkov" target="_blank">
   <img align="left" alt="Igor's Twitter" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/igorpiatkov">
+<a href="https://www.linkedin.com/in/igorpiatkov" target="_blank">
   <img align="left" alt="Igor's LinkedIn" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/igorpiatkov">
+<a href="https://www.facebook.com/igorpiatkov" target="_blank">
   <img align="left" alt="Igor's Facebook" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/facebook.svg" />
 </a>
-<a href="https://github.com/igorpiatkov">
+<a href="https://github.com/igorpiatkov" target="_blank">
   <img align="left" alt="Igor's GitHub" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/github.svg" />
 </a>
