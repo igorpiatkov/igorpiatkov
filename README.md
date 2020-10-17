@@ -1,16 +1,29 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/igorpiatkov-cover.png "Header")](https://igorpiatkov.com)
 
-<!--
-**igorpiatkov/igorpiatkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi <img src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/hi.gif" width="25px">, I'm Igor Piatkov
+Software Engineer, Maker 👨‍💻
 
-Here are some ideas to get you started:
+- 💡 [Toggol.com](https://toggol.com) </br>
+All your smart home devices within a single app on desktop. Available for Windows, Mac & Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋‍♂️ [BuddyList.me](https://buddylist.me) </br>
+It's like Tinder, but for professional connections in Tech. 
+
+- 🥘 [MealSuggest.net](https://mealsuggest.net) </br>
+Weekly meal planner with handy recipes.
+
+Website: https://igorpiatkov.com </br>
+Email: [hello@igorpiatkov.com](mailto:hello@igorpiatkov.com)
+
+<a href="https://twitter.com/igorpiatkov">
+  <img align="left" alt="Igor's Twitter" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/igorpiatkov">
+  <img align="left" alt="Igor's LinkedIn" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/igorpiatkov">
+  <img align="left" alt="Igor's Facebook" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/facebook.svg" />
+</a>
+<a href="https://github.com/igorpiatkov">
+  <img align="left" alt="Igor's GitHub" width="22px" src="https://raw.githubusercontent.com/igorpiatkov/igorpiatkov/master/img/github.svg" />
+</a>
