@@ -12,6 +12,9 @@ It's like Tinder, but for professional connections in Tech.
 - 🥘 [MealSuggest.net](https://mealsuggest.net) </br>
 Weekly meal planner with handy recipes.
 
+- 🥘 [Hello-Card.com](https://hello-card.com) </br>
+The smart business card.
+
 Website: https://igorpiatkov.com </br>
 Email: [hello@igorpiatkov.com](mailto:hello@igorpiatkov.com)
 
